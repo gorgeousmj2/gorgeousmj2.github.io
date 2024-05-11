@@ -18,15 +18,27 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi. My name is Mijoo Jeong. Now 
-'**제목**'<br/>
-이게 맞나<br/>
--이거 맞아?  
-+이거맞냐고  
-+허허 
-+허허  
-#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your #picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, I am a student in an undergraduate program, double-majoring in Architecture and Software Engineering at Sungkyunkwan University in Korea.<br/><br/>
 
-#Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your #`_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Skills**<br/>
+Languages: C, C++, Java, Python<br/>
+Tools: Git, Docker, Adobe Photoshop, Adobe Illustrator, SketchUp, Rhino, AutoCAD, Microsoft Office, Microsoft PowerPoint, Enscape<br/><br/>
 
-#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), #like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Education**<br/>
+B.S. in Computer Science and Engineering<br/>
+Dates: March 2020 – Present<br/>
+Institution: Sungkyunkwan University, Suwon, Gyeonggi-do, Korea<br/><br/>
+B.S. in Architectural Engineering<br/>
+Dates: March 2020 – Present<br/>
+Institution: Sungkyunkwan University, Suwon, Gyeonggi-do, Korea<br/>
+Courses: System Programming, Logic Circuits, Data Structures, Problem Solving Techniques, Automata, Introduction to Computer Architectures, Seminar in Computer Engineering, Introduction to Database, Algorithms<br/><br/>
+
+**Achievements and Certifications**<br/>
+Class 2 Regular Driver's License<br/>
+Chinese Character Proficiency Test Level 4<br/><br/>
+
+**Research Experience**<br/>
+Seoul National University Graduate School of Data Science, LAAL<br/>
+Dates: June 2023 – August 2023<br/>
+SecAI Lab at Sungkyunkwan University<br/>
+Dates: December 2023 – March 2024<br/>
