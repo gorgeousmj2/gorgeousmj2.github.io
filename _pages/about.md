@@ -25,12 +25,13 @@ Languages: C, C++, Java, Python<br/>
 Tools: Git, Docker, Adobe Photoshop, Adobe Illustrator, SketchUp, Rhino, AutoCAD, Microsoft Office, Microsoft PowerPoint, Enscape<br/><br/>
 
 **Education**<br/>
-B.S. in Computer Science and Engineering<br/>
-Dates: March 2020 – Present<br/>
-Institution: Sungkyunkwan University, Suwon, Gyeonggi-do, Korea<br/><br/>
-B.S. in Architectural Engineering<br/>
-Dates: March 2020 – Present<br/>
-Institution: Sungkyunkwan University, Suwon, Gyeonggi-do, Korea<br/>
+B.S. Science in Computer Science and Engineering<br/>
+March 2020 – Present<br/>
+Sungkyunkwan University, Suwon, Gyeonggi-do, Korea<br/><br/>
+
+B.S. Engineering in Architecture<br/>
+March 2020 – Present<br/>
+Sungkyunkwan University, Suwon, Gyeonggi-do, Korea<br/><br/>
 Courses: System Programming, Logic Circuits, Data Structures, Problem Solving Techniques, Automata, Introduction to Computer Architectures, Seminar in Computer Engineering, Introduction to Database, Algorithms<br/><br/>
 
 **Achievements and Certifications**<br/>
@@ -39,6 +40,6 @@ Chinese Character Proficiency Test Level 4<br/><br/>
 
 **Research Experience**<br/>
 Seoul National University Graduate School of Data Science, LAAL<br/>
-Dates: June 2023 – August 2023<br/>
+June 2023 – August 2023<br/><br/>
 SecAI Lab at Sungkyunkwan University<br/>
-Dates: December 2023 – March 2024<br/>
+December 2023 – March 2024<br/>
