@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I am a undergraduate student, double-majoring in Architecture and Software Engineering at Sungkyunkwan University in Korea.<br/><br/>
+Hello, I am an undergraduate student, double-majoring in Architecture and Computer Science and Engineering at Sungkyunkwan University in Korea.<br/><br/>
 
 **Skills**<br/>
 Languages: C, C++, Java, Python<br/>
